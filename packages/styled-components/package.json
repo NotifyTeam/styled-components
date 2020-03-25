@@ -1,6 +1,6 @@
 {
   "name": "@notify.me/styled-components",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress",
   "main": "dist/styled-components.cjs.js",
   "jsnext:main": "dist/styled-components.esm.js",
@@ -73,14 +73,12 @@
     "supports-color": "^5.5.0"
   },
   "peerDependencies": {
-    "react": ">= 16.13.0",
     "react-dom": ">= 16.13.0",
     "react-is": ">= 16.13.0"
   },
   "devDependencies": {
     "flow-bin": "^0.100.0",
     "prop-types": "^15.7.2",
-    "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-frame-component": "^4.0.2",
     "react-is": "^16.13.0",
