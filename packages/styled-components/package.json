@@ -1,6 +1,6 @@
 {
-  "name": "styled-components",
-  "version": "5.0.1",
+  "name": "@notify.me/styled-components",
+  "version": "5.0.4",
   "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress",
   "main": "dist/styled-components.cjs.js",
   "jsnext:main": "dist/styled-components.esm.js",
@@ -73,20 +73,20 @@
     "supports-color": "^5.5.0"
   },
   "peerDependencies": {
-    "react": ">= 16.8.0",
-    "react-dom": ">= 16.8.0",
-    "react-is": ">= 16.8.0"
+    "react": ">= 16.13.0",
+    "react-dom": ">= 16.13.0",
+    "react-is": ">= 16.13.0"
   },
   "devDependencies": {
     "flow-bin": "^0.100.0",
     "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
     "react-frame-component": "^4.0.2",
-    "react-is": "^16.8.6",
+    "react-is": "^16.13.0",
     "react-native": "^0.59.8",
     "react-primitives": "^0.8.0",
-    "react-test-renderer": "^16.8.6",
+    "react-test-renderer": "^16.13.0",
     "stylis-plugin-rtl": "^1.0.0"
   },
   "bundlesize": [
