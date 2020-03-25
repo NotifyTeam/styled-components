@@ -1,5 +1,5 @@
 {
-  "name": "styled-components/native",
+  "name": "@notify.me/styled-components/native",
   "private": true,
   "main": "./dist/styled-components.native.cjs.js",
   "jsnext:main": "./dist/styled-components.native.esm.js",

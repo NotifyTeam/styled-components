@@ -1,5 +1,5 @@
 {
-  "name": "styled-components/macro",
+  "name": "@notify.me/styled-components/macro",
   "private": true,
   "main": "../dist/styled-components-macro.cjs.js",
   "module": "../dist/styled-components-macro.esm.js",
